@@ -7,3 +7,5 @@ As part of my learning journey with SherryJS, I've developed a collection of coo
 
 here is the website you can visit
 https://sikakoluchaitanya.github.io/homepage-sherryjs/
+
+for better view of the design you can clone the repo into your device
